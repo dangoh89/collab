@@ -1,3 +1,3 @@
-def some_method e,r
-	e+r
+def some_method f,r
+	f+r
 end
